@@ -11,7 +11,7 @@ Important in ensuring high quality softwares/application, also important in debu
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Artificial intelligence(AI) is a computer system that can perform that require human intelligence 
+Artificial intelligence(AI) is a computer system that can perform that require human intelligence. 
 DevOps has been a milestone in the evolution of software engineering since it combines software development and IT operations that helps in improvement of software delivery. 
 AI-assisted coding tools such as GitHub are used to enhance developer productivity and encourage non-programmers to develop applications
 
